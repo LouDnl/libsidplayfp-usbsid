@@ -1,3 +1,5 @@
+20251105 All changes merged into main official repo.
+
 libsidplayfp
 ============
 
